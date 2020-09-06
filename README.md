@@ -1,4 +1,4 @@
 # bmi-calculator-flutter
 
 Demo:
-![Alt Text](https://github.com/1udaypatil1/bmi-calculator-flutter/blob/master/Demo.gif =480x986)
+<img src="https://github.com/1udaypatil1/bmi-calculator-flutter/blob/master/Demo.gif" height="480" width=""987>
